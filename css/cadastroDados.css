@@ -1,0 +1,26 @@
+.cadastro-projeto{
+    width: -webkit-fill-available;
+    width: 100%;
+
+    border: 2px solid;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.selecao-segmento{
+    /* text-align: center; */
+}
+
+.dados-projeto{
+    display: block;
+    text-align: left;
+    line-height: 1.4rem;
+}
+
+.nome-projeto{
+    margin: 10px 0;
+}
+
+label.label-formulario {
+    display: block;
+}
